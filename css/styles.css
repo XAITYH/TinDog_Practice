@@ -195,7 +195,7 @@ p {
         padding-top: 20px;
     }
     
-    #title {
+    #title .container-fluid {
         text-align: center;
     }
 }
